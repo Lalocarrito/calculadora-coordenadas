@@ -108,7 +108,7 @@ También puedes ejecutar la clase
 
 ## Autores
 
-- **Hernández Morales Anahí**
-- **Ibarra Padilla Sebastián**
-- **Martínez Ruiz Josué Ignacio** - [@Lalocarrito](https://github.com/Lalocarrito)
-- **Román Ruiz María Celeste**
+- **Anahí Hernández** - [@annyie681](https://github.com/annyie681)
+- **Sebastián Ibarra** - [@sebastianibar](https://github.com/sebastianibar)
+- **Josué Martínez** - [@Lalocarrito](https://github.com/Lalocarrito)
+- **Celeste Román** - [@mceless3](https://github.com/mceless3)
